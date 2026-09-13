@@ -1,7 +1,7 @@
 # Machine Learning 
-It is a branch of Artificial Intelligence that deals with training, testing and implementation of 
-machine 
-In machine learning basically we train machine model to think and work like humans 
+* It is a branch of Artificial Intelligence that deals with training, testing and implementation of 
+machines 
+* In machine learning basically we train machine model to think and work like human 
 
 ## Types
 It has manly four types
