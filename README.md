@@ -5,10 +5,10 @@ machines
 
 ## Types
 It has manly four types
-1.Supervised Learning
-2.Unsupervised  Learning
-3.Semi - Supervised  Learning
-4.Reinforcement  Learning
+1. Supervised Learning
+2. Unsupervised  Learning
+3. Semi - Supervised  Learning
+4. Reinforcement  Learning
 
 ### Supervised Learning :
 * In supervised learning you work as a teacher
